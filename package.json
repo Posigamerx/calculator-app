@@ -1,6 +1,7 @@
 {
   "homepage": "https://Posigamerx.github.io/calculator-app",
   "name": "calculator-app",
+  "description": "A web App based calculator but on react",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
